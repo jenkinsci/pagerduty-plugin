@@ -14,6 +14,7 @@
         <java.level>8</java.level>
         <jenkins.version>2.190.1</jenkins.version>
         <mavenVersion>3.3.9</mavenVersion>
+		<ban-junit4-imports.skip>false</ban-junit4-imports.skip>
     </properties>
     <name>PagerDuty Plugin</name>
     <description>PagerDuty incident Trigger plugin</description>

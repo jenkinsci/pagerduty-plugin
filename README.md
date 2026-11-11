@@ -28,7 +28,7 @@ Allows users to send **Change Events** and trigger postbuild **Incidents** via
 
 ## Requirements
 
--   Jenkins version 1.580.1 or newer is required.
+-   Jenkins version 2.190.1 or newer is required.
 -   PagerDuty account (you can create a [free developer account
     here](https://signup.pagerduty.com/accounts/new))
 
